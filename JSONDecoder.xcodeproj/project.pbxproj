@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE0F71E822452E76007E7AC5 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F71E722452E76007E7AC5 /* TableViewCell.swift */; };
 		CEDEF2212240CBCE004AE510 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDEF2202240CBCE004AE510 /* AppDelegate.swift */; };
 		CEDEF2232240CBCE004AE510 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDEF2222240CBCE004AE510 /* ViewController.swift */; };
 		CEDEF2262240CBCE004AE510 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDEF2242240CBCE004AE510 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE0F71E722452E76007E7AC5 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		CEDEF21D2240CBCE004AE510 /* JSONDecoder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSONDecoder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDEF2202240CBCE004AE510 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEDEF2222240CBCE004AE510 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				CEDEF2202240CBCE004AE510 /* AppDelegate.swift */,
 				CEDEF2222240CBCE004AE510 /* ViewController.swift */,
+				CE0F71E722452E76007E7AC5 /* TableViewCell.swift */,
 				CEDEF2242240CBCE004AE510 /* Main.storyboard */,
 				CEDEF2272240CBCF004AE510 /* Assets.xcassets */,
 				CEDEF2292240CBCF004AE510 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE0F71E822452E76007E7AC5 /* TableViewCell.swift in Sources */,
 				CEDEF2232240CBCE004AE510 /* ViewController.swift in Sources */,
 				CEDEF2212240CBCE004AE510 /* AppDelegate.swift in Sources */,
 			);
